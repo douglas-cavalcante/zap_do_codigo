@@ -1,0 +1,54 @@
+.container {
+  margin: 0 auto;
+  width: 80%;
+}
+
+.book-content-item {
+  display: flex;
+  gap: 40px;
+  justify-content: center;
+  margin: 20px 0;
+  background-color: #FFF;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.left-content {
+
+}
+
+
+
+.right-content {
+  display: flex;
+  flex-direction: column;
+  
+}
+
+.name-book-item {
+  font-size: 32px;
+  color: #F2D6A3;
+  margin: 10px 0;
+}
+
+.price-book-item {
+  color: #000;
+  font-weight: bold;
+  font-size: 28px;
+  margin: 10px 0;
+}
+
+.photo-book {
+  width: 250px;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+.description-book-item {
+  font-size: 12px;
+  text-align: justify;
+  color: #6c6a69;
+}
+
+.button-add-book-cart {
+  margin-top: 40px;
+}

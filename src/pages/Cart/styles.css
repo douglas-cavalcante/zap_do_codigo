@@ -1,0 +1,45 @@
+.content-table-cart {
+  background: #FFF;
+  padding: 10px;
+  margin: 10px;
+}
+
+.table-cart {
+  width: 100%;
+}
+
+.table-cart thead, th {
+  color: #999;
+  text-align: left;
+  padding: 12px;
+}
+
+.table-cart tbody, td {
+  padding: 12px;
+  border-bottom: 1px solid #eee;
+}
+
+.table-image {
+  height: 100px;
+}
+
+
+.actions {
+  display: flex;
+  align-items: center;
+
+  
+}
+
+.input {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  color: #666;
+  padding: 6px;
+  width: 50px;
+}
+.action-button {
+  background: none;
+  border: 0;
+  padding: 6px;
+}
